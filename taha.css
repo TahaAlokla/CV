@@ -1,0 +1,109 @@
+body{ background-color:#222222;
+	height: 900px;
+	width: 900pcx;
+	
+}
+.contener{
+	background-color: #182d30;
+	width: 820px;
+	height: 700px;
+}
+.nameMe{
+/*margin: 20x;
+padding: 30px;*/
+	border-bottom:2px solid  #51b5a5;
+	height: 200px;
+	font-size: 30px;
+	font-weight: 900;
+	
+	
+}
+.nameMe img{
+	border-radius: 50%;
+	margin-right: 40px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+	margin-left: 30px;
+	
+}
+.nameMe p{
+	display: inline-block;
+	color: #F1523F;
+	font-size: 40px;
+	text-transform:capitalize;
+	font-family: monospace;
+	margin: 30px;
+	
+	
+	
+}
+.contener2{
+	
+	
+}
+
+
+
+.left_page{
+	
+     display:inline-block;
+	width: 30%;
+	height: 450px;
+	
+	border-right: 2px solid  #F1523F;
+	margin-top: 20px;
+	color: #F1523F;
+	padding-left: 40px;
+	padding-top: 15px;
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	
+	
+}
+.left_page p{
+	margin-bottom: 50px;
+}
+.Right_page{
+	float: right;
+ font-family: inherit;
+	color: #E1E4E4;
+	display: inline;
+	width: 70%;
+	margin-top: 20px;
+	
+	padding-left:20px;
+	padding-top: 15px;
+
+	
+}
+
+.skills p,.langugeas p{
+	display: inline;
+	padding: 15px;
+	color: #f1f1ee;
+	padding-left: 20px;
+	margin-left: 20px;
+}
+.skills p span,.langugeas p span{
+	color: red;
+}
+.Right_page .contact p{
+
+}
+
+.Right_page li{
+	list-style-type: none;
+	
+}
+
+.skills hr,.edcution hr,.about_me hr,.contact hr{
+	
+	width:400px;
+	padding-left: 10px;
+	 
+	
+    background-color: #F1523F;
+}
+
